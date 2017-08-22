@@ -1,0 +1,20 @@
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.deps.json
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.runtimeconfig.json
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.runtimeconfig.dev.json
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.dll
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.pdb
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.csprojResolveAssemblyReference.cache
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.AssemblyInfo.cs
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.dll
+c:\users\xtreme\documents\visual studio 2017\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.pdb
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.deps.json
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.runtimeconfig.json
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.runtimeconfig.dev.json
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.dll
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\bin\Debug\netcoreapp1.1\VmsRawEp.pdb
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.csprojResolveAssemblyReference.cache
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.AssemblyInfo.cs
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.dll
+E:\aSP.net_senior_project1\Projects\VmsRawEp\VmsRawEp\obj\Debug\netcoreapp1.1\VmsRawEp.pdb
